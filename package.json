@@ -1,0 +1,25 @@
+{
+  "name": "turnpike",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ferdian Robianto",
+    "email": "robianto.ferdian@gmail.com"
+  },
+  "contributors": [ 
+    { "name": "ferland", "email": "robianto.ferdian@gmail.com" }
+  ],
+  "description": "Dummiest Program",
+  "repository": "https://github.com/ferland/turnpike.git",
+  "devDependencies": {
+    "derby": "*",
+    "less": "*",
+    "passport": "*",
+    "passport-local": "*",
+  },
+  "depedencies": {
+    "derby": "*",
+    "less": "*",
+    "passport": "*",
+    "passport-local": "*",
+  }
+}
