@@ -15,11 +15,24 @@
     "less": "*",
     "passport": "*",
     "passport-local": "*",
+    "connect-mongo": "~0.3.2",
+    "express": "*",
+    "jade": "*",
+    "connect-assets": "*",
+    "less-middleware": "~0.1.12"
   },
   "depedencies": {
     "derby": "*",
     "less": "*",
     "passport": "*",
     "passport-local": "*",
+    "connect-mongo": "~0.3.2",
+    "express": "*",
+    "jade": "*",
+    "connect-assets": "*",
+    "less-middleware": "~0.1.12"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
